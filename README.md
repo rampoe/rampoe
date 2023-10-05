@@ -5,4 +5,4 @@
 ██║░░██║███████╗███████╗███████╗╚█████╔╝  ░░╚██╔╝░╚██╔╝░╚█████╔╝██║░░██║███████╗██████╔╝██╗
 ╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝░╚════╝░  ░░░╚═╝░░░╚═╝░░░╚════╝░╚═╝░░╚═╝╚══════╝╚═════╝░╚═╝</pre>
 
-<p>👋 I'm rampoe, and welcome to my GitHub bio.<p>✍️ I'm a full-stack developer working with JavaScript and Python.<p>🇹🇲 I'm based in Ashgabat, Turkmenistan.<p>📚 I love reading, especially self-development books.
+<p>👋 I'm rampoe, and welcome to my GitHub bio.<p>✍️ I'm a full-stack developer working with JavaScript and Python.<p>🇹🇲 I'm based in Ashgabat, Turkmenistan.<p>📚 I love reading, especially self-development books.<p>✉️ Contact me: <a href="mailto:mail.rampoe@gmail.com">mail.rampoe@gmail.com
