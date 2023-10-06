@@ -7,7 +7,7 @@
 
 
 <p>👋 I'm Rahman, and welcome to my GitHub bio.</p>
-<p>✍️ I'm a full-stack developer working with JavaScript and Python.</p>
+<p>✍️ I'm an Independent Software Engineer working with JavaScript and Python.</p>
 <p>📚 I love reading, especially self-development books.</p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
